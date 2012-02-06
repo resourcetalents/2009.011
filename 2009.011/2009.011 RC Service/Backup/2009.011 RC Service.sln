@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2009.011 RC Service", "2009.011 RC Service.csproj", "{47635E22-08E8-4691-9FB8-7344E8952F98}"
+EndProject
+Project("{2CFEAB61-6A3B-4EB8-B523-560B4BEEF521}") = "2009.011 RC Service.csproj_deploy", "..\2009.011 RC Service.csproj_deploy\2009.011 RC Service.csproj_deploy.wdproj", "{DBA82D7F-61D6-4C11-8BBC-AA2103ADCFDB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup RcService", "..\Setup RcService\Setup RcService.vdproj", "{6C7A5D74-338F-4771-8DE0-C70F690C6090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47635E22-08E8-4691-9FB8-7344E8952F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47635E22-08E8-4691-9FB8-7344E8952F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47635E22-08E8-4691-9FB8-7344E8952F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47635E22-08E8-4691-9FB8-7344E8952F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA82D7F-61D6-4C11-8BBC-AA2103ADCFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA82D7F-61D6-4C11-8BBC-AA2103ADCFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA82D7F-61D6-4C11-8BBC-AA2103ADCFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA82D7F-61D6-4C11-8BBC-AA2103ADCFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7A5D74-338F-4771-8DE0-C70F690C6090}.Debug|Any CPU.ActiveCfg = Debug
+		{6C7A5D74-338F-4771-8DE0-C70F690C6090}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

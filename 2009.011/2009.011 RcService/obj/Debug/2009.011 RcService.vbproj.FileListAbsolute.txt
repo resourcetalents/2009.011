@@ -1,0 +1,11 @@
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\bin\Debug\RT2009.011.RcService.dll.config
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\bin\Debug\RT2009.011.RcService.dll
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\bin\Debug\RT2009.011.RcService.pdb
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\bin\Debug\RT2009.011.RcService.xml
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\obj\Debug\ResolveAssemblyReference.cache
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\obj\Debug\RegioControl.Resources.resources
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\obj\Debug\GenerateResource.read.1.tlog
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\obj\Debug\GenerateResource.write.1.tlog
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\obj\Debug\RT2009.011.RcService.dll
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\obj\Debug\RT2009.011.RcService.xml
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcService\obj\Debug\RT2009.011.RcService.pdb

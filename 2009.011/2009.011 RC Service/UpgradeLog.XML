@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="2009.011 RC Service">
+</Property><Property Name="Solution File" Value="\\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\2009.011 RC Service.sln">
+</Property><Property Name="User Options File" Value="\\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\2009.011 RC Service.suo">
+</Property><Property Name="Date" Value="woensdag 8 juni 2011">
+</Property><Property Name="Time" Value="20:14">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="2009.011 RC Service.sln" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\2009.011 RC Service.sln">
+</Event><Event ErrorLevel="0" Project="" Source="2009.011 RC Service.suo" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\2009.011 RC Service.suo">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="2009.011 RC Service.csproj" Description="Project file successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\2009.011 RC Service.csproj">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="2009.011 RC Service.csproj.user" Description="Project user file successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\2009.011 RC Service.csproj.user">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="App_Code\Rapport.vb" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\App_Code\Rapport.vb">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="img\bar.gif" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\img\bar.gif">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="Default.aspx" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\Default.aspx">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="Default.aspx.vb" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\Default.aspx.vb">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="img\l_unit4agresso.gif" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\img\l_unit4agresso.gif">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="Rapport.asmx" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\Rapport.asmx">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="Web.config" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\Web.config">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="default.aspx.resx" Description="File successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\default.aspx.resx">
+</Event><Event ErrorLevel="1" Project="2009.011 RC Service" Source="2009.011 RC Service.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="2009.011 RC Service.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="2009.011 RC Service" Source="2009.011 RC Service.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Setup RcService" Source="..\Setup RcService\Setup RcService.vdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Setup RcService.vdproj" Source="..\Setup RcService\Setup RcService.vdproj" Description="Project file successfully backed up as \\tsclient\D\Projecten\2009.011 RcService\2009.011 RC Service\Backup\Setup RcService\Setup RcService.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="2009.011 RC Service.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="2009.011 RC Service.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="2009.011 RC Service" Source="2009.011 RC Service.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

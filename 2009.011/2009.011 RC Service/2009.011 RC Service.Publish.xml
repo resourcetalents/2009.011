@@ -1,0 +1,13 @@
+<publishData>
+  <publishTarget publishUrl="D:\Projecten\2009.011 RcService\2009.011 RC Service\PreCompiled\">
+    <file relUrl="Default.aspx.vb" publishTime="06/17/2009 13:11:05" />
+    <file relUrl="Web.config" publishTime="06/17/2009 12:57:21" />
+    <file relUrl="Default.aspx" publishTime="06/17/2009 13:11:05" />
+    <file relUrl="Rapport.asmx" publishTime="06/17/2009 12:57:19" />
+    <file relUrl="bin/2009.011 RC Service.pdb" publishTime="06/17/2009 13:44:53" />
+    <file relUrl="img/bar.gif" publishTime="06/17/2009 13:08:28" />
+    <file relUrl="bin/2009.011 RC Service.dll" publishTime="06/17/2009 13:44:54" />
+    <file relUrl="img/l_unit4agresso.gif" publishTime="06/17/2009 13:08:28" />
+    <file relUrl="App_Code/Rapport.vb" publishTime="06/17/2009 13:23:30" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,28 @@
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\ResolveAssemblyReference.cache
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.P011.RcFactuur.frmLogin.resources
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.P011.RcFactuur.frmMain.resources
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.P011.RcFactuur.frmSelectie.resources
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.P011.RcFactuur.frmSelectieVelden.resources
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.P011.RcFactuur.Resources.resources
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\GenerateResource.read.1.tlog
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\GenerateResource.write.1.tlog
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\Interop.MBO.dll
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\2009.011 RcFactuur.vbproj.ResolveComReference.cache
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcFactuur.exe.config
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcFactuur.exe
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcFactuur.pdb
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcFactuur.xml
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcService.dll
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcService.pdb
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcService.xml
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\VbPowerPack.pdb
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.011.RcFactuur.exe
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.011.RcFactuur.xml
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.011.RcFactuur.pdb
+D:\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.P011.RcFactuur.frmProgress.resources
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcFactuur\bin\Debug\RT2009.011.RcFactuur.exe.config
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\Interop.MBO.dll
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\2009.011 RcFactuur.vbproj.ResolveComReference.cache
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.011.RcFactuur.exe
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.011.RcFactuur.xml
+\\tsclient\d\Projecten\2009.011 RcService\2009.011 RcFactuur\obj\Debug\RT2009.011.RcFactuur.pdb
